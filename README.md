@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Wemerson-ferr&style=social&color=success" alt=""/>
   <h1>
-     Olá
+     Olá, seja bem vindo!
      <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="45px"/>
   </h1>
 </div>
