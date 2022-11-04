@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/wemerson-ferr/">
+    <a href="https://www.linkedin.com/in/wemerson-ferr/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/wemerson.ferr/">
+    <a href="https://www.instagram.com/wemerson.ferr/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-blueviolet?style=plastic&logo=instagram&logoColor=white" alt="Instagrem Badge"/>
     </a>
-    <a href="mailto:wemerson-b@hotmail.com">
+    <a href="mailto:wemerson-b@hotmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-blue?style=plastic&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge"/>
     </a>
   </div>
