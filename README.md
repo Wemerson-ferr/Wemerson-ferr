@@ -1,14 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/wemerson-ferr/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="https://www.instagram.com/wemerson.ferr/">
       <img src="https://img.shields.io/badge/Instagram-blueviolet?style=plastic&logo=instagram&logoColor=white" alt="Instagrem Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Email-red?style=plastic&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge"/>
+    <a href="mailto:wemerson-b@hotmail.com">
+      <img src="https://img.shields.io/badge/Email-blue?style=plastic&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Wemerson-ferr&style=social&color=success" alt=""/>
