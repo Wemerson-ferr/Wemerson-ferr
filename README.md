@@ -17,3 +17,6 @@
      <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="45px"/>
   </h1>
 </div>
+<div>
+  I'm currently studying Information Systems at <a href="https://www.pucminas.br/main/Paginas/default.aspx">Puc Minas</a>. I always liked programming and computers, so I decided to enter this area. I created this github to post some academic code and external projects. Feel free to check some of them out, I hope you like them!
+</div>
