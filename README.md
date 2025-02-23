@@ -4,9 +4,6 @@
     <a href="https://www.linkedin.com/in/wemerson-ferr/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-blueviolet?style=plastic&logo=instagram&logoColor=white" alt="Instagrem Badge"/>
-    </a>
     <a href="mailto:wemerson-b@hotmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-blue?style=plastic&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge"/>
     </a>
@@ -21,7 +18,6 @@
   I'm currently studying Information Systems at <a href="https://www.pucminas.br/main/Paginas/default.aspx">Puc Minas</a>. I always liked programming and computers, so I decided to enter this area. I created this github to post some academic code and external projects. Feel free to check some of them out, I hope you like them!
 </div>
 <div id="top-lang" align="center">
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wemerson-ferr&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wemerson-ferr&hide_progress=true)
 </div>
